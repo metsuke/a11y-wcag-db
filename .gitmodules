@@ -1,0 +1,3 @@
+[submodule "modules/db-basics"]
+	path = modules/db-basics
+	url = https://github.com/metsuke/db-basics
